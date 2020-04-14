@@ -1,2 +1,0 @@
-# paradigmedr
-Created with CodeSandbox
